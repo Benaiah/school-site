@@ -1,0 +1,5 @@
+permalink: /:title/
+auto: true
+mardkown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
